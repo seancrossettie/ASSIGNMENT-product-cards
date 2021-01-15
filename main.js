@@ -1,1 +1,1 @@
-console.log("Product Cards")
+console.log("ASSIGNMENT-product-cards")
