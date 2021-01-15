@@ -1,32 +1,48 @@
 body {
-  background-color: pink;
+  background-color: white;
 }
 
-header {
+.product-container {
+  display: flex;
+  justify-content: space-around;
+  width: auto;
+  margin: 0 -5px;
+}
+
+.product-card {
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightblue;
+  box-shadow: 2px 4px 5px gray;
+}
+
+.product-header {
 font-size: large;
+text-align: center;
+border-bottom-style: solid;
+border-width: 1px;
+border-color: lightblue;
 }
 
-h2 {
-  font-size: 20pt;
-  text-align: center;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-h3 {
-  font-size: 13pt;
+.product-description{
+  text-align: justify;
+  text-justify: inter-;
+  font-size: 12pt;
 }
+
+
 
 h4 {
   font-size: 10pt;
 }
 
-.product-container{
-  display: flex;
-  flex-direction: row;
-}
 
-.product-card {
- 
-}
 
 .product-card img {
   width: 50%;
