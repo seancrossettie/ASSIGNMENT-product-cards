@@ -1,20 +1,21 @@
 body {
-  background-color: white;
+  background-color: blanchedalmond;
 }
 
 .product-container {
   display: flex;
-  justify-content: space-around;
-  width: auto; 
+  justify-content: space-evenly;
+  flex-direction: row; 
 }
 
 .product-card {
   border-style: solid;
   border-width: 1px;
   border-color: lightblue;
-  box-shadow: 2px 4px 5px gray;
+  box-shadow: 2px 4px 5px teal;
   margin: 10px 10px;
   background-color: antiquewhite;
+  width: 25%;
 }
 
 .product-header {
