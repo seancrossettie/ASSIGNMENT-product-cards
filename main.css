@@ -21,7 +21,7 @@ body {
 .product-header {
   font-size: large;
   text-align: center;
-  min-height: 90%
+  min-height: 90%;
   border-bottom-style: solid;
   border-width: 1px;
   border-color: lightblue;
