@@ -1,5 +1,7 @@
 ## Product Cards Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/45991d08-3abd-4d87-99eb-8b301bec5cd3/deploy-status)](https://app.netlify.com/sites/sr-product-cards/deploys)
+
 ## Overview 
 This website is a basic HTML/CSS-based page demonstrating my understanding of the two markup languages.
 
