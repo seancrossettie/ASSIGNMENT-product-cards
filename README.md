@@ -11,6 +11,9 @@ https://sr-product-cards.netlify.app/
 ## Description 
 The page features five product cards with corresponding mock product specs formatted in HTML and CSS. My main goal in developing this was to get a better grasp in the syntax and structures of the two basic markup languages and how to use them to style surface-level UI components.
 
+## Screenshots
+<img width="1788" alt="Screen Shot 2021-07-15 at 6 34 09 PM" src="https://user-images.githubusercontent.com/76828201/125870913-ef4ad1ff-a3be-42cc-bdc9-6348e56e11d5.png">
+
 ## Features
 - HTML
   - Inline & Block elements
