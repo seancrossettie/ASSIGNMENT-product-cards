@@ -9,7 +9,7 @@ This website is a basic HTML/CSS-based page demonstrating my understanding of th
 https://sr-product-cards.netlify.app/
 
 ## Description 
-The page features five product cards with corresponding mock product specs formatted in HTML and CSS. My main goal in developing this was to get a better grasp in the syntax and structures of the two basic markup languages and how to use them to style surface-level UI components. The website features vanilla HTML and CSS.
+The page features five product cards with corresponding mock product specs formatted in HTML and CSS. My main goal in developing this was to get a better grasp in the syntax and structures of the two basic markup languages and how to use them to style surface-level UI components.
 
 ## Features
 - HTML
